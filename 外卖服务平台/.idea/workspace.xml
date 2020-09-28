@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74e18158-2947-4b90-b79d-421df4b6a91f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ej_app/src/components/tabbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_app/src/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_app/src/views/coupon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_app/src/views/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_app/src/views/order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_app/src/views/user.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/scroll-to.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/store/customer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/store/order/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/store/waiters/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/utils/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/utils/scroll-to.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/customer/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/order/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/waiter/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ej_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ej_app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ej_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ej_app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ej_app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ej_app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ej_app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ej_app/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ej_app/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ej_app/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ej_app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ej_app/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/mock/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/mock/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/permission.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/permission.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/store/modules/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/store/modules/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/dashboard/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/dashboard/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/table/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-admin-template/vue-admin-template/src/views/table/index.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-admin-template/vue-admin-template" />
+  </component>
+  <component name="ProjectId" id="1hA4rlwRxanbjgj6aJwSpDvEb4K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ej_app/src/util" />
+    <property name="ts.external.directory.path" value="D:\APP\webstorm\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\yjjz\vue-admin-template\vue-admin-template\src\store" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\yjjz\ej_app\src\util" />
+      <recent name="D:\study\yjjz\vue-admin-template\vue-admin-template\src\views" />
+      <recent name="D:\study\yjjz\vue-admin-template\vue-admin-template\src\views\waiter" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74e18158-2947-4b90-b79d-421df4b6a91f" name="Default Changelist" comment="" />
+      <created>1599440767412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599440767412</updated>
+      <workItem from="1599440777785" duration="24384000" />
+      <workItem from="1599527319215" duration="24696000" />
+      <workItem from="1599614535819" duration="16683000" />
+      <workItem from="1599699719654" duration="40917000" />
+      <workItem from="1599989090422" duration="1155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599619263083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599619263083" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599448546008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599448546008" />
+  </component>
+</project>
